@@ -1,2 +1,2 @@
-# DL_Project
-Deep Learning 
+# Human_Activity_Recognition
+
